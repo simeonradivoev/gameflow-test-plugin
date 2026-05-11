@@ -1,7 +1,7 @@
 {
   "name": "gameflow-example-plugin",
   "version": "1.0.0",
-  "module": "dist/index.js",
+  "main": "dist/index.js",
   "type": "module",
   "keywords": [
     "gameflow",
